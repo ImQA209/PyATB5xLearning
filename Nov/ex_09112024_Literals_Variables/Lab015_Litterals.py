@@ -1,0 +1,1 @@
+binaryNumber=0b1010
