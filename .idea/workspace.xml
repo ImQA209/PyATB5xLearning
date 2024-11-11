@@ -1,30 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fb05e91-faf1-4a22-ab1a-09f488b34a16" name="Changes" comment="" />
+    <list default="true" id="1fb05e91-faf1-4a22-ab1a-09f488b34a16" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifier_variables/Lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifier_variables/Lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifier_variables/Lab006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab010.builtin_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab011_Sum_two_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab001_Python_HelloWord.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab001_Python_HelloWord.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab002_Python_Basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab002_Python_Basics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab003_Python_Basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_05112024_Python_Basics/Lab003_Python_Basics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Python_Basics/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab009_UserInput.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_07112024_Python_Basics/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifier_variables/__init__.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ImQA209"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ImQA209/PyATB5xLearning.git",
+    "accountId": "70da3086-a64b-49cb-aaf8-f834c53e1bbd"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
   <component name="ProjectId" id="2oQS6B9lq3Z4p4DqGkQkUxywH2J" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Lab001_Python_HelloWord.executor": "Run",
+    "Python.Lab002_Python_Basics.executor": "Run",
+    "Python.Lab003_Python_Basics.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab006.executor": "Run",
+    "Python.Lab007.executor": "Run",
+    "Python.Lab008.executor": "Run",
+    "Python.Lab009.executor": "Run",
+    "Python.Lab009_UserInput.executor": "Run",
+    "Python.Lab010.builtin_function.executor": "Run",
+    "Python.Lab011_Sum_two_numbers.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Lab004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_07112024_Python_Basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_07112024_Python_Basics/Lab004.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Lab004" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -42,5 +122,21 @@
       <updated>1730800129835</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Nov/ex_07112024_Keywords_Identifier_variables/Lab004.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Lab008.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
