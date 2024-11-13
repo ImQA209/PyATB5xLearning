@@ -5,7 +5,7 @@ number3 = int(input("Enter the value of number3"))
 sum_result = number1 + number2 + number3
 sub_result = number1 - number2 - number3
 mul_result = number1 * number2 * number3
-div_result = number1 / number2 / number3
+div_result = (number1 / number2) / number3
 
 print("The sum value is:", sum_result)
 print("The sub value is:", sub_result)

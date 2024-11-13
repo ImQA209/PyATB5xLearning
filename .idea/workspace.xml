@@ -5,9 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1fb05e91-faf1-4a22-ab1a-09f488b34a16" name="Changes" comment="Uploaded 9th Nov Lab">
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Task 0911_3number_input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Task2 091124_quotient_remainder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-12112024_Operator/Lab018_Unary_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-12112024_Operator/Lab019_arithmatic_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-12112024_Operator/Lab020_operator_p1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-12112024_Operator/Lab021_power_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-12112024_Operator/Lab022_compare_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-12112024_Operator/Lab023_type of_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-12112024_Operator/Lab024_OR_AND _ operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-12112024_Operator/Lab025_divmod.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-12112024_Operator/Lab026_Ternary_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-12112024_Operator/Lab027_Userinput_Ternary_Operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-12112024_Operator/Lab028_Area of circle_coding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-12112024_Operator/Task01_12112024_Program for userage21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-12112024_Operator/Task2_12112024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-12112024_Operator/Task3_12112024_max number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Task 0911_3number_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex_09112024_Literals_Variables/Task 0911_3number_input.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,21 +37,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ImQA209"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ImQA209&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ImQA209/PyATB5xLearning.git",
-    "accountId": "70da3086-a64b-49cb-aaf8-f834c53e1bbd"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ImQA209/PyATB5xLearning.git&quot;,
+    &quot;accountId&quot;: &quot;70da3086-a64b-49cb-aaf8-f834c53e1bbd&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2oQS6B9lq3Z4p4DqGkQkUxywH2J" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -67,12 +80,32 @@
     "Python.Lab014_String concatination.executor": "Run",
     "Python.Lab016_escapekey.executor": "Run",
     "Python.Lab017_Escapekey_Raw char.executor": "Run",
+    "Python.Lab018_Unary_operator.executor": "Run",
+    "Python.Lab019_arithmatic_operator.executor": "Run",
+    "Python.Lab020_operator_p1.executor": "Run",
+    "Python.Lab021_power_operator.executor": "Run",
+    "Python.Lab022_compare_operator.executor": "Run",
+    "Python.Lab023_type of_operator.executor": "Run",
+    "Python.Lab024_OR_AND _ operator.executor": "Run",
+    "Python.Lab025_divmod.executor": "Run",
+    "Python.Lab026_Ternary_operator.executor": "Run",
+    "Python.Lab027_Userinput_Ternary_Operator.executor": "Run",
+    "Python.Lab028_Area of circle_coding.executor": "Run",
     "Python.Task 0911_3number_input.executor": "Run",
+    "Python.Task01_12112024_Program for userage21.executor": "Run",
     "Python.Task2 091124_quotient_remainder.executor": "Run",
+    "Python.Task2_12112024.executor": "Run",
+    "Python.Task3_12112024_max number.executor": "Run",
+    "Python.__init__.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vikyg\PycharmProjects\PyATB5xLearning\Nov" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Lab004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
@@ -142,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731341627029</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Uploaded 9th Nov Lab">
+      <option name="closed" value="true" />
+      <created>1731346112648</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731346112648</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
