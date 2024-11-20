@@ -5,19 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1fb05e91-faf1-4a22-ab1a-09f488b34a16" name="Changes" comment="Uploaded 14th Nov Lab">
-      <change afterPath="$PROJECT_DIR$/Nov/ex-16112024_Loops/Lab031_loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-16112024_Loops/Lab032_loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-16112024_Loops/Lab033_forloops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-16112024_Loops/Lab034_While.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-16112024_Loops/Lab034_for loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-16112024_Loops/Lab035_forLoop1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-16112024_Loops/Lab036_Break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-16112024_Loops/Lab037_Pass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-16112024_Loops/Lab038_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-16112024_Loops/Lab039_Continue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-16112024_Loops/Lab040_Match.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-16112024_Loops/Lab041_Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-16112024_Loops/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-19112024_Functions/Lab042.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-19112024_Functions/Lab043_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-19112024_Functions/Lab044_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-19112024_Functions/Lab045_FunctionTypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-19112024_Functions/Lab046_Function_Program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-19112024_Functions/Lab047_Function type pgm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-19112024_Functions/Lab048_functions_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-19112024_Functions/Lab049_fun_IQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-19112024_Functions/Lab050_args_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-19112024_Functions/Lab051_real_args_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-19112024_Functions/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,6 +101,15 @@
     "Python.Lab039_Continue.executor": "Run",
     "Python.Lab040_Match.executor": "Run",
     "Python.Lab041_Task1.executor": "Run",
+    "Python.Lab042.executor": "Run",
+    "Python.Lab043_functions.executor": "Run",
+    "Python.Lab044_function.executor": "Run",
+    "Python.Lab045_FunctionTypes.executor": "Run",
+    "Python.Lab046_Function_Program.executor": "Run",
+    "Python.Lab047_Function type pgm.executor": "Run",
+    "Python.Lab048_functions_IQ.executor": "Run",
+    "Python.Lab049_fun_IQ.executor": "Run",
+    "Python.Lab050_args_function.executor": "Run",
     "Python.Task 0911_3number_input.executor": "Run",
     "Python.Task01_12112024_Program for userage21.executor": "Run",
     "Python.Task1_14112024_Triangle.executor": "Run",
