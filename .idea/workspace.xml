@@ -4,18 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fb05e91-faf1-4a22-ab1a-09f488b34a16" name="Changes" comment="Uploaded 14th Nov Lab">
-      <change afterPath="$PROJECT_DIR$/Nov/ex-19112024_Functions/Lab042.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-19112024_Functions/Lab043_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-19112024_Functions/Lab044_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-19112024_Functions/Lab045_FunctionTypes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-19112024_Functions/Lab046_Function_Program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-19112024_Functions/Lab047_Function type pgm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-19112024_Functions/Lab048_functions_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-19112024_Functions/Lab049_fun_IQ.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-19112024_Functions/Lab050_args_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-19112024_Functions/Lab051_real_args_ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-19112024_Functions/__init__.py" afterDir="false" />
+    <list default="true" id="1fb05e91-faf1-4a22-ab1a-09f488b34a16" name="Changes" comment="Uploaded 19th nov">
+      <change afterPath="$PROJECT_DIR$/Nov/IM/1_number multiple by 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/IM/2_ number between two number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/IM/3_Print the even number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/IM/Add_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/IM/Divisible by 3 &amp;5_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/IM/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/IM/count number of even number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions&amp;Variables/Lab052_functionVariables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions&amp;Variables/Lab053_Loval and public variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions&amp;Variables/Lab054_LocalVariable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions&amp;Variables/Lab055_InnerFunctions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions&amp;Variables/Lab056_decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions&amp;Variables/Task_Left triangle_21112024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions&amp;Variables/Task_Right triangulur_21112024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions&amp;Variables/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex_21112024_Functions&amp;Variables/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +50,9 @@
     &quot;accountId&quot;: &quot;70da3086-a64b-49cb-aaf8-f834c53e1bbd&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -58,6 +66,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.1_number multilication.executor": "Run",
+    "Python.1_number multiple by 2.executor": "Run",
+    "Python.2_ number between two number.executor": "Run",
+    "Python.3_Print the even number.executor": "Run",
+    "Python.Add_function.executor": "Run",
+    "Python.Divisible by 3 &5_ex.executor": "Run",
     "Python.Lab001_Python_HelloWord.executor": "Run",
     "Python.Lab002_Python_Basics.executor": "Run",
     "Python.Lab003_Python_Basics.executor": "Run",
@@ -110,6 +124,12 @@
     "Python.Lab048_functions_IQ.executor": "Run",
     "Python.Lab049_fun_IQ.executor": "Run",
     "Python.Lab050_args_function.executor": "Run",
+    "Python.Lab051_real_args_ex.executor": "Run",
+    "Python.Lab052_functionVariables.executor": "Run",
+    "Python.Lab053_Loval and public variable.executor": "Run",
+    "Python.Lab054_LocalVariable.executor": "Run",
+    "Python.Lab055_InnerFunctions.executor": "Run",
+    "Python.Lab056_decorator.executor": "Run",
     "Python.Task 0911_3number_input.executor": "Run",
     "Python.Task01_12112024_Program for userage21.executor": "Run",
     "Python.Task1_14112024_Triangle.executor": "Run",
@@ -117,7 +137,11 @@
     "Python.Task2_12112024.executor": "Run",
     "Python.Task2_14112024_LeapYear.executor": "Run",
     "Python.Task3_12112024_max number.executor": "Run",
+    "Python.Task_Left triangle_21112024.executor": "Run",
+    "Python.Task_Right triangulur_21112024.executor": "Run",
     "Python.__init__.executor": "Run",
+    "Python.count number of even number.executor": "Run",
+    "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -251,14 +275,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731654132026</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Uploaded 19th nov">
+      <option name="closed" value="true" />
+      <created>1732108341845</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732108341845</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Uploaded 9th Nov Lab" />
     <MESSAGE value="Uploaded 12th Nov Lab" />
     <MESSAGE value="Uploaded 14th Nov Lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uploaded 14th Nov Lab" />
+    <MESSAGE value="Uploaded 19th nov" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uploaded 19th nov" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
