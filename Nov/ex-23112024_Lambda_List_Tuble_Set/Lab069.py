@@ -6,3 +6,4 @@ def non_repeating_char(string):
 
 
 print(non_repeating_char("swiss"))
+print(non_repeating_char("dadar"))

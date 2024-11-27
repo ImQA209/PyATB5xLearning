@@ -4,23 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fb05e91-faf1-4a22-ab1a-09f488b34a16" name="Changes" comment="Uploaded 21st nov">
-      <change afterPath="$PROJECT_DIR$/Nov/ex-23112024_Lambda_List_Tuble_Set/Lab057_Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-23112024_Lambda_List_Tuble_Set/Lab058_add_lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-23112024_Lambda_List_Tuble_Set/Lab059_Lambda_sum of three_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-23112024_Lambda_List_Tuble_Set/Lab060_Lambda _Even_odd check.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-23112024_Lambda_List_Tuble_Set/Lab061_Lambda_mathpower.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-23112024_Lambda_List_Tuble_Set/Lab062_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-23112024_Lambda_List_Tuble_Set/Lab063_list_append.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-23112024_Lambda_List_Tuble_Set/Lab064_pop_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-23112024_Lambda_List_Tuble_Set/Lab065_Tuble.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-23112024_Lambda_List_Tuble_Set/Lab065_set1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-23112024_Lambda_List_Tuble_Set/Lab066_tuble.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-23112024_Lambda_List_Tuble_Set/Lab067_tubles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-23112024_Lambda_List_Tuble_Set/Lab068_Set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-23112024_Lambda_List_Tuble_Set/Lab069.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-23112024_Lambda_List_Tuble_Set/__init__.py" afterDir="false" />
+    <list default="true" id="1fb05e91-faf1-4a22-ab1a-09f488b34a16" name="Changes" comment="Uploaded 23rd nov">
+      <change afterPath="$PROJECT_DIR$/Nov/ex-26112024_Dict/Lab070_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-26112024_Dict/Lab071_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-26112024_Dict/Lab072_dict_zip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-26112024_Dict/Lab073_iq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-26112024_Dict/Lab074_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-26112024_Dict/Lab075_max value.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-26112024_Dict/Lab076_remove uniq value_iq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-26112024_Dict/Lab077_iq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-26112024_Dict/Lab078_find the vowels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-26112024_Dict/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Nov/ex-23112024_Lambda_List_Tuble_Set/Lab069.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex-23112024_Lambda_List_Tuble_Set/Lab069.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,6 +142,15 @@
     "Python.Lab067_tubles.executor": "Run",
     "Python.Lab068_Set.executor": "Run",
     "Python.Lab069.executor": "Run",
+    "Python.Lab070_dict.executor": "Run",
+    "Python.Lab071_list.executor": "Run",
+    "Python.Lab072_dict_zip.executor": "Run",
+    "Python.Lab073_iq.executor": "Run",
+    "Python.Lab074_dict.executor": "Run",
+    "Python.Lab075_max value.executor": "Run",
+    "Python.Lab076_remove uniq value_iq.executor": "Run",
+    "Python.Lab077_iq.executor": "Run",
+    "Python.Lab078_find the vowels.executor": "Run",
     "Python.Task 0911_3number_input.executor": "Run",
     "Python.Task01_12112024_Program for userage21.executor": "Run",
     "Python.Task1_14112024_Triangle.executor": "Run",
@@ -308,7 +313,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732515312500</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Uploaded 23rd nov">
+      <option name="closed" value="true" />
+      <created>1732624014338</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732624014338</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -317,7 +330,8 @@
     <MESSAGE value="Uploaded 14th Nov Lab" />
     <MESSAGE value="Uploaded 19th nov" />
     <MESSAGE value="Uploaded 21st nov" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uploaded 21st nov" />
+    <MESSAGE value="Uploaded 23rd nov" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uploaded 23rd nov" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
