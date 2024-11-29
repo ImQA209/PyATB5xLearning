@@ -4,19 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fb05e91-faf1-4a22-ab1a-09f488b34a16" name="Changes" comment="Uploaded 23rd nov">
-      <change afterPath="$PROJECT_DIR$/Nov/ex-26112024_Dict/Lab070_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-26112024_Dict/Lab071_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-26112024_Dict/Lab072_dict_zip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-26112024_Dict/Lab073_iq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-26112024_Dict/Lab074_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-26112024_Dict/Lab075_max value.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-26112024_Dict/Lab076_remove uniq value_iq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-26112024_Dict/Lab077_iq.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-26112024_Dict/Lab078_find the vowels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-26112024_Dict/__init__.py" afterDir="false" />
+    <list default="true" id="1fb05e91-faf1-4a22-ab1a-09f488b34a16" name="Changes" comment="Uploaded 26th nov">
+      <change afterPath="$PROJECT_DIR$/Nov/ex-28112024_OOPS/Lab079_oops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-28112024_OOPS/Lab080_oops_enter the data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-28112024_OOPS/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Nov/ex-23112024_Lambda_List_Tuble_Set/Lab069.py" beforeDir="false" afterPath="$PROJECT_DIR$/Nov/ex-23112024_Lambda_List_Tuble_Set/Lab069.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,6 +143,8 @@
     "Python.Lab076_remove uniq value_iq.executor": "Run",
     "Python.Lab077_iq.executor": "Run",
     "Python.Lab078_find the vowels.executor": "Run",
+    "Python.Lab079_oops.executor": "Run",
+    "Python.Lab080_oops_enter the data.executor": "Run",
     "Python.Task 0911_3number_input.executor": "Run",
     "Python.Task01_12112024_Program for userage21.executor": "Run",
     "Python.Task1_14112024_Triangle.executor": "Run",
@@ -321,7 +315,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732624014338</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Uploaded 26th nov">
+      <option name="closed" value="true" />
+      <created>1732717918590</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1732717918590</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -331,7 +333,8 @@
     <MESSAGE value="Uploaded 19th nov" />
     <MESSAGE value="Uploaded 21st nov" />
     <MESSAGE value="Uploaded 23rd nov" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uploaded 23rd nov" />
+    <MESSAGE value="Uploaded 26th nov" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uploaded 26th nov" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
