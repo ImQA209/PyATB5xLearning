@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fb05e91-faf1-4a22-ab1a-09f488b34a16" name="Changes" comment="Uploaded 26th nov">
-      <change afterPath="$PROJECT_DIR$/Nov/ex-28112024_OOPS/Lab079_oops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-28112024_OOPS/Lab080_oops_enter the data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-28112024_OOPS/__init__.py" afterDir="false" />
+    <list default="true" id="1fb05e91-faf1-4a22-ab1a-09f488b34a16" name="Changes" comment="Uploaded 28th nov">
+      <change afterPath="$PROJECT_DIR$/Nov/ex-28112024_OOPS/Lab081_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nov/ex-28112024_OOPS/Task1_28112024.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -145,9 +144,11 @@
     "Python.Lab078_find the vowels.executor": "Run",
     "Python.Lab079_oops.executor": "Run",
     "Python.Lab080_oops_enter the data.executor": "Run",
+    "Python.Lab081_calculator.executor": "Run",
     "Python.Task 0911_3number_input.executor": "Run",
     "Python.Task01_12112024_Program for userage21.executor": "Run",
     "Python.Task1_14112024_Triangle.executor": "Run",
+    "Python.Task1_28112024.executor": "Run",
     "Python.Task2 091124_quotient_remainder.executor": "Run",
     "Python.Task2_12112024.executor": "Run",
     "Python.Task2_14112024_LeapYear.executor": "Run",
@@ -323,7 +324,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732717918590</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Uploaded 28th nov">
+      <option name="closed" value="true" />
+      <created>1732879778743</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1732879778745</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -334,7 +343,8 @@
     <MESSAGE value="Uploaded 21st nov" />
     <MESSAGE value="Uploaded 23rd nov" />
     <MESSAGE value="Uploaded 26th nov" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uploaded 26th nov" />
+    <MESSAGE value="Uploaded 28th nov" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uploaded 28th nov" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
