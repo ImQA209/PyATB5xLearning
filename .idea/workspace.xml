@@ -4,15 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fb05e91-faf1-4a22-ab1a-09f488b34a16" name="Changes" comment="Uploaded 28th nov">
+    <list default="true" id="1fb05e91-faf1-4a22-ab1a-09f488b34a16" name="Changes" comment="Uploaded 30th nov">
+      <change afterPath="$PROJECT_DIR$/December/Ex-03122024_Inheritance_polymarphm/Lab087_Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/Ex-03122024_Inheritance_polymarphm/Lab088_single inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/Ex-03122024_Inheritance_polymarphm/Lab089_Multilevel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/Ex-03122024_Inheritance_polymarphm/Lab090_Multiple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/Ex-03122024_Inheritance_polymarphm/Lab091_Multiple ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/Ex-03122024_Inheritance_polymarphm/Lab092_Hierachical.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/Ex-03122024_Inheritance_polymarphm/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/Ex-07122024_exception/Lab093_Handling exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/Ex-07122024_exception/Lab093_exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/Ex-07122024_exception/Lab094_try _exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/Ex-07122024_exception/Lab095_exception_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/Ex-07122024_exception/Lab096_OS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/Ex-07122024_exception/Lab097_Exception_OS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/Ex-07122024_exception/Lab098_create file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/Ex-07122024_exception/TestData.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/Ex-07122024_exception/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/Ex-07122024_exception/csv file.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Nov/ex-30112024_encapsulation/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-30112024_encapsulation/Lab082_oops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-30112024_encapsulation/Lab082_oops_variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-30112024_encapsulation/Lab083_encap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-30112024_encapsulation/Lab084_login _ecap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-30112024_encapsulation/Lab085_env file read.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-30112024_encapsulation/Lab086_encapsul.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-30112024_encapsulation/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -157,6 +167,19 @@
     "Python.Lab084_login _ecap.executor": "Run",
     "Python.Lab085_env file read.executor": "Run",
     "Python.Lab086_encapsul.executor": "Run",
+    "Python.Lab087_Inheritance.executor": "Run",
+    "Python.Lab088_single inheritance.executor": "Run",
+    "Python.Lab089_Multilevel.executor": "Run",
+    "Python.Lab090_Multiple.executor": "Run",
+    "Python.Lab091_Multiple ex.executor": "Run",
+    "Python.Lab092_Hierachical.executor": "Run",
+    "Python.Lab093_Handling exception.executor": "Run",
+    "Python.Lab093_exceptions.executor": "Run",
+    "Python.Lab094_try _exception.executor": "Run",
+    "Python.Lab095_exception_else.executor": "Run",
+    "Python.Lab096_OS.executor": "Run",
+    "Python.Lab097_Exception_OS.executor": "Run",
+    "Python.Lab098_create file.executor": "Run",
     "Python.Task 0911_3number_input.executor": "Run",
     "Python.Task01_12112024_Program for userage21.executor": "Run",
     "Python.Task1_14112024_Triangle.executor": "Run",
@@ -169,9 +192,11 @@
     "Python.Task_Right triangulur_21112024.executor": "Run",
     "Python.__init__.executor": "Run",
     "Python.count number of even number.executor": "Run",
+    "Python.csv file.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "settings.editor.selected.configurable": "actions.on.save"
   }
 }]]></component>
@@ -344,7 +369,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732879778745</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Uploaded 30th nov">
+      <option name="closed" value="true" />
+      <created>1733202556585</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1733202556585</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -356,7 +389,8 @@
     <MESSAGE value="Uploaded 23rd nov" />
     <MESSAGE value="Uploaded 26th nov" />
     <MESSAGE value="Uploaded 28th nov" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uploaded 28th nov" />
+    <MESSAGE value="Uploaded 30th nov" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uploaded 30th nov" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
