@@ -4,25 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fb05e91-faf1-4a22-ab1a-09f488b34a16" name="Changes" comment="Uploaded 30th nov">
-      <change afterPath="$PROJECT_DIR$/December/Ex-03122024_Inheritance_polymarphm/Lab087_Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/Ex-03122024_Inheritance_polymarphm/Lab088_single inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/Ex-03122024_Inheritance_polymarphm/Lab089_Multilevel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/Ex-03122024_Inheritance_polymarphm/Lab090_Multiple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/Ex-03122024_Inheritance_polymarphm/Lab091_Multiple ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/Ex-03122024_Inheritance_polymarphm/Lab092_Hierachical.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/Ex-03122024_Inheritance_polymarphm/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/Ex-07122024_exception/Lab093_Handling exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/Ex-07122024_exception/Lab093_exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/Ex-07122024_exception/Lab094_try _exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/Ex-07122024_exception/Lab095_exception_else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/Ex-07122024_exception/Lab096_OS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/Ex-07122024_exception/Lab097_Exception_OS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/Ex-07122024_exception/Lab098_create file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/Ex-07122024_exception/TestData.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/Ex-07122024_exception/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/Ex-07122024_exception/csv file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nov/ex-30112024_encapsulation/.env" afterDir="false" />
+    <list default="true" id="1fb05e91-faf1-4a22-ab1a-09f488b34a16" name="Changes" comment="Uploaded 07th dec">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Python_tests_for_Lab_103_pytest_test_Method1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/EX-31122024-pytest/Lab01_learn pytest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/EX-31122024-pytest/Lab02_pytest_Get.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/EX-31122024-pytest/Lab03_pytest_post1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/EX-31122024-pytest/Lab04_post_pytest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/Ex-10-12-2024_Modules/Browserpackage/StopBrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/Ex-10-12-2024_Modules/Browserpackage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/Ex-10-12-2024_Modules/Browserpackage/startBrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/Ex-10-12-2024_Modules/Lab100_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/Ex-10-12-2024_Modules/Lab101_module_reuse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/Ex-10-12-2024_Modules/Lab102_browser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/Ex-10-12-2024_Modules/MySqlconnector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/Ex-10-12-2024_Modules/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/Ex-28122024-Pytest/Lab-103 pytest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/Ex-28122024-Pytest/Lab-104 learning Allurereport.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/Ex-28122024-Pytest/Lab-105-pytest_GET.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/December/Ex-28122024-Pytest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/Selenium_Basic/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/Selenium_Basic/test01_Selenium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex02_Selenium_Basics/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex02_Selenium_Basics/test01_selenium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex02_Selenium_Basics/test02_verifytitle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex02_Selenium_Basics/test03_seleniumCommands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex02_Selenium_Basics/test04_miniproject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex02_Selenium_Basics/test05_multiplBrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex03_Selenium_Locators/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex03_Selenium_Locators/test09_Selenium_locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/test_Selenium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Janaury/Ex-02012025_fixture/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Janaury/Ex-02012025_fixture/test-fixture_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Janaury/Ex-02012025_fixture/test_fixture_demo1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Janaury/Ex-02012025_fixture/test_fixture_demo3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Janaury/Ex-02012025_fixture/test_update.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Janaury/Ex-02012025_fixture/test_webautomation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Janaury/Ex_02012025_CSV_Read/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Janaury/Ex_02012025_CSV_Read/test_Csv_read.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Janaury/Ex_02012025_CSV_Read/userdata.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +75,9 @@
     &quot;accountId&quot;: &quot;70da3086-a64b-49cb-aaf8-f834c53e1bbd&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Jan/ex02_Selenium_Basics/test01-selenium.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -71,12 +94,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for Lab-103 pytest.test_Method1.executor": "Run",
+    "Python tests.Python tests for test01_selenium.test_vwo_login.executor": "Run",
+    "Python tests.Python tests for test02_verifytitle.test_login.executor": "Run",
+    "Python tests.Python tests for test03_seleniumCommands.test_login_vmo.executor": "Run",
+    "Python tests.Python tests for test04_miniproject.test_katalon_login.executor": "Run",
+    "Python tests.Python tests for test_Selenium.test_vwo_login.executor": "Run",
+    "Python tests.Python tests in Lab-103 pytest.py.executor": "Run",
+    "Python tests.Python tests in test05_multiplBrowser.py.executor": "Run",
+    "Python tests.Python tests in test09_Selenium_locators.py.executor": "Run",
+    "Python tests.Python tests in test_Selenium.py.executor": "Run",
     "Python.1_number multilication.executor": "Run",
     "Python.1_number multiple by 2.executor": "Run",
     "Python.2_ number between two number.executor": "Run",
     "Python.3_Print the even number.executor": "Run",
     "Python.Add_function.executor": "Run",
     "Python.Divisible by 3 &5_ex.executor": "Run",
+    "Python.Lab-103 pytest.executor": "Run",
     "Python.Lab001_Python_HelloWord.executor": "Run",
     "Python.Lab002_Python_Basics.executor": "Run",
     "Python.Lab003_Python_Basics.executor": "Run",
@@ -97,6 +131,7 @@
     "Python.Lab017_Escapekey_Raw char.executor": "Run",
     "Python.Lab018_Unary_operator.executor": "Run",
     "Python.Lab019_arithmatic_operator.executor": "Run",
+    "Python.Lab01_learn pytest.executor": "Run",
     "Python.Lab020_operator_p1.executor": "Run",
     "Python.Lab021_power_operator.executor": "Run",
     "Python.Lab022_compare_operator.executor": "Run",
@@ -180,6 +215,10 @@
     "Python.Lab096_OS.executor": "Run",
     "Python.Lab097_Exception_OS.executor": "Run",
     "Python.Lab098_create file.executor": "Run",
+    "Python.Lab100_module.executor": "Run",
+    "Python.Lab101_module_reuse.executor": "Run",
+    "Python.Lab102_Mysql connector.executor": "Run",
+    "Python.Lab102_browser.executor": "Run",
     "Python.Task 0911_3number_input.executor": "Run",
     "Python.Task01_12112024_Program for userage21.executor": "Run",
     "Python.Task1_14112024_Triangle.executor": "Run",
@@ -194,10 +233,13 @@
     "Python.count number of even number.executor": "Run",
     "Python.csv file.executor": "Run",
     "Python.test.executor": "Run",
+    "Python.test01-selenium.executor": "Run",
+    "Python.test01_selenium (1).executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "actions.on.save"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -205,55 +247,89 @@
       <recent name="C:\Users\vikyg\PycharmProjects\PyATB5xLearning\Nov" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Lab004" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests in test09_Selenium_locators.py">
+    <configuration name="Python tests for test02_verifytitle.test_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex_07112024_Python_Basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan/ex02_Selenium_Basics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex_07112024_Python_Basics/Lab004.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test02_verifytitle.test_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab035_forLoop1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test03_seleniumCommands.test_login_vmo" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nov/ex-16112024_Loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan/ex02_Selenium_Basics" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nov/ex-16112024_Loops/Lab035_forLoop1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test03_seleniumCommands.test_login_vmo&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test04_miniproject.test_katalon_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan/ex02_Selenium_Basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test04_miniproject.test_katalon_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test05_multiplBrowser.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan/ex02_Selenium_Basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Jan/ex02_Selenium_Basics/test05_multiplBrowser.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test09_Selenium_locators.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB5xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan/ex03_Selenium_Locators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Jan/ex03_Selenium_Locators/test09_Selenium_locators.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab004" />
-        <item itemvalue="Python.Lab035_forLoop1" />
+        <item itemvalue="Python tests.Python tests in test09_Selenium_locators.py" />
+        <item itemvalue="Python tests.Python tests in test05_multiplBrowser.py" />
+        <item itemvalue="Python tests.Python tests for test04_miniproject.test_katalon_login" />
+        <item itemvalue="Python tests.Python tests for test03_seleniumCommands.test_login_vmo" />
+        <item itemvalue="Python tests.Python tests for test02_verifytitle.test_login" />
       </list>
     </recent_temporary>
   </component>
@@ -377,8 +453,27 @@
       <option name="project" value="LOCAL" />
       <updated>1733202556585</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Uploaded 07th dec">
+      <option name="closed" value="true" />
+      <created>1733899524037</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1733899524037</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Uploaded 9th Nov Lab" />
@@ -390,7 +485,8 @@
     <MESSAGE value="Uploaded 26th nov" />
     <MESSAGE value="Uploaded 28th nov" />
     <MESSAGE value="Uploaded 30th nov" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uploaded 30th nov" />
+    <MESSAGE value="Uploaded 07th dec" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uploaded 07th dec" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
