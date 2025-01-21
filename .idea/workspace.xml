@@ -4,46 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fb05e91-faf1-4a22-ab1a-09f488b34a16" name="Changes" comment="Uploaded 07th dec">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Python_tests_for_Lab_103_pytest_test_Method1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/EX-31122024-pytest/Lab01_learn pytest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/EX-31122024-pytest/Lab02_pytest_Get.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/EX-31122024-pytest/Lab03_pytest_post1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/EX-31122024-pytest/Lab04_post_pytest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/Ex-10-12-2024_Modules/Browserpackage/StopBrowser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/Ex-10-12-2024_Modules/Browserpackage/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/Ex-10-12-2024_Modules/Browserpackage/startBrowser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/Ex-10-12-2024_Modules/Lab100_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/Ex-10-12-2024_Modules/Lab101_module_reuse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/Ex-10-12-2024_Modules/Lab102_browser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/Ex-10-12-2024_Modules/MySqlconnector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/Ex-10-12-2024_Modules/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/Ex-28122024-Pytest/Lab-103 pytest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/Ex-28122024-Pytest/Lab-104 learning Allurereport.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/Ex-28122024-Pytest/Lab-105-pytest_GET.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/December/Ex-28122024-Pytest/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/Selenium_Basic/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/Selenium_Basic/test01_Selenium.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex02_Selenium_Basics/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex02_Selenium_Basics/test01_selenium.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex02_Selenium_Basics/test02_verifytitle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex02_Selenium_Basics/test03_seleniumCommands.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex02_Selenium_Basics/test04_miniproject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex02_Selenium_Basics/test05_multiplBrowser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex03_Selenium_Locators/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex03_Selenium_Locators/test09_Selenium_locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/test_Selenium.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Janaury/Ex-02012025_fixture/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Janaury/Ex-02012025_fixture/test-fixture_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Janaury/Ex-02012025_fixture/test_fixture_demo1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Janaury/Ex-02012025_fixture/test_fixture_demo3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Janaury/Ex-02012025_fixture/test_update.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Janaury/Ex-02012025_fixture/test_webautomation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Janaury/Ex_02012025_CSV_Read/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Janaury/Ex_02012025_CSV_Read/test_Csv_read.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Janaury/Ex_02012025_CSV_Read/userdata.csv" afterDir="false" />
+    <list default="true" id="1fb05e91-faf1-4a22-ab1a-09f488b34a16" name="Changes" comment="Uploaded 20th jan2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jan/ex03_Selenium_Locators/test10_Selenium_locators_Options.py" beforeDir="false" afterPath="$PROJECT_DIR$/Jan/ex03_Selenium_Locators/test10_Selenium_locators_Options.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -461,7 +424,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733899524037</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Uploaded 20th jan2025">
+      <option name="closed" value="true" />
+      <created>1737466143445</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1737466143445</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -486,7 +457,8 @@
     <MESSAGE value="Uploaded 28th nov" />
     <MESSAGE value="Uploaded 30th nov" />
     <MESSAGE value="Uploaded 07th dec" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uploaded 07th dec" />
+    <MESSAGE value="Uploaded 20th jan2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uploaded 20th jan2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
