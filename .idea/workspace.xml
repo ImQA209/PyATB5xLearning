@@ -5,9 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1fb05e91-faf1-4a22-ab1a-09f488b34a16" name="Changes" comment="Uploaded 20th jan2025">
-      <change afterPath="$PROJECT_DIR$/Jan/ex03_Selenium_Locators/test11_Selenium_locators_miniproject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex03_Selenium_Locators/test12_Selenium_locators_miniproject_freetrail.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jan/ex03_Selenium_Locators/test13_Selenium_locators_miniproject_tagName.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex04_Selenium_Locators_Xpath/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex04_Selenium_Locators_Xpath/test14_Selenium_locators_Xpath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex05_Selenium_Waits/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex05_Selenium_Waits/test_015_Waits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex05_Selenium_Waits/test_015_Waits_Explicit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex05_Selenium_Waits/test_015_Waits_Fluent_Explicit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex06_Selenium_Alerts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex06_Selenium_Alerts/test_alerts_js.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex06_Selenium_Alerts/test_makemytrip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex06_Selenium_Alerts/test_modal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex07_EbayProject_Selenium/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jan/ex07_EbayProject_Selenium/test_Ebay_Selenium_Project.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +74,10 @@
     "Python tests.Python tests for test02_verifytitle.test_login.executor": "Run",
     "Python tests.Python tests for test03_seleniumCommands.test_login_vmo.executor": "Run",
     "Python tests.Python tests for test04_miniproject.test_katalon_login.executor": "Run",
+    "Python tests.Python tests for test14_Selenium_locators_Xpath.test_app_vwo_login_chrome.executor": "Run",
+    "Python tests.Python tests for test_015_Waits.test_negative_app_vwo_com.executor": "Run",
+    "Python tests.Python tests for test_015_Waits_Explicit.test_negative_app_vwo_com.executor": "Run",
+    "Python tests.Python tests for test_Ebay_Selenium_Project.test_ebay.executor": "Run",
     "Python tests.Python tests for test_Selenium.test_vwo_login.executor": "Run",
     "Python tests.Python tests in Lab-103 pytest.py.executor": "Run",
     "Python tests.Python tests in test05_multiplBrowser.py.executor": "Run",
@@ -209,68 +223,69 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vikyg\PycharmProjects\PyATB5xLearning\Jan\ex05_Selenium_Waits" />
       <recent name="C:\Users\vikyg\PycharmProjects\PyATB5xLearning\Nov" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in test09_Selenium_locators.py">
-    <configuration name="Python tests for test02_verifytitle.test_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_Ebay_Selenium_Project.test_ebay">
+    <configuration name="Python tests for Jan.ex05_Selenium_Waits.test_015_Waits_Explicit.test_negative_app_vwo_com" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan/ex02_Selenium_Basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan/ex04_Selenium_Locators_Xpath" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test02_verifytitle.test_login&quot;" />
+      <option name="_new_target" value="&quot;Jan.ex05_Selenium_Waits.test_015_Waits_Explicit.test_negative_app_vwo_com&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test03_seleniumCommands.test_login_vmo" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test14_Selenium_locators_Xpath.test_app_vwo_login_chrome" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan/ex02_Selenium_Basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan/ex04_Selenium_Locators_Xpath" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test03_seleniumCommands.test_login_vmo&quot;" />
+      <option name="_new_target" value="&quot;test14_Selenium_locators_Xpath.test_app_vwo_login_chrome&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test04_miniproject.test_katalon_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_015_Waits.test_negative_app_vwo_com" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan/ex02_Selenium_Basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan/ex05_Selenium_Waits" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test04_miniproject.test_katalon_login&quot;" />
+      <option name="_new_target" value="&quot;test_015_Waits.test_negative_app_vwo_com&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test05_multiplBrowser.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Ebay_Selenium_Project.test_ebay" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PyATB5xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan/ex02_Selenium_Basics" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jan/ex07_EbayProject_Selenium" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Jan/ex02_Selenium_Basics/test05_multiplBrowser.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;test_Ebay_Selenium_Project.test_ebay&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="Python tests in test09_Selenium_locators.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
@@ -290,11 +305,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_Ebay_Selenium_Project.test_ebay" />
+        <item itemvalue="Python tests.Python tests for Jan.ex05_Selenium_Waits.test_015_Waits_Explicit.test_negative_app_vwo_com" />
+        <item itemvalue="Python tests.Python tests for test_015_Waits.test_negative_app_vwo_com" />
+        <item itemvalue="Python tests.Python tests for test14_Selenium_locators_Xpath.test_app_vwo_login_chrome" />
         <item itemvalue="Python tests.Python tests in test09_Selenium_locators.py" />
-        <item itemvalue="Python tests.Python tests in test05_multiplBrowser.py" />
-        <item itemvalue="Python tests.Python tests for test04_miniproject.test_katalon_login" />
-        <item itemvalue="Python tests.Python tests for test03_seleniumCommands.test_login_vmo" />
-        <item itemvalue="Python tests.Python tests for test02_verifytitle.test_login" />
       </list>
     </recent_temporary>
   </component>
@@ -442,7 +457,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737466410217</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Uploaded 20th jan2025">
+      <option name="closed" value="true" />
+      <created>1737466560502</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1737466560502</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
